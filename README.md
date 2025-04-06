@@ -21,7 +21,7 @@ Este é um projeto simples de uma calculadora feita com **HTML**, **CSS** e **Ja
 
 git clone https://github.com/dudacapelini/Atv-Pedro-Calculadora-Docker.git
 
-cd calculadora-docker
+cd Atv-Pedro-Calculadora-Docker
 
 ```
 
