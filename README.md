@@ -19,7 +19,7 @@ Este é um projeto simples de uma calculadora feita com **HTML**, **CSS** e **Ja
 
 ```bash
 
-git clone https://github.com/SeuUsuario/calculadora-docker.git
+git clone https://github.com/dudacapelini/Atv-Pedro-Calculadora-Docker.git
 
 cd calculadora-docker
 
