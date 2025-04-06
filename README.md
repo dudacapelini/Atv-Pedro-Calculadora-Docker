@@ -68,4 +68,4 @@ calculadora-docker/
 ```
 
 
-Criado pela: Maria Eduarda Capelini Pereira
+Criado por: Maria Eduarda Capelini Pereira
